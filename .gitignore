@@ -1,0 +1,15 @@
+# 编译产物
+build/
+
+# 调试器/日志
+*.log
+*.jdebug
+*.jdebug.user
+*.bak
+
+# CubeMX 临时文件
+.mxproject
+
+# VS Code / 系统文件
+.DS_Store
+Thumbs.db
